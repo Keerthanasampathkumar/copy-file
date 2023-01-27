@@ -26,18 +26,18 @@ End the program
 
 ## PROGRAM:
 ```
-
-with open ("text.txt") as fp:
-  with open("file.txt","w") as fp1:
-    line= fp.read()
-    fp1.write(line)
+Developed by : KEERTHANA S
+RegisterNumber:22009006
+with open("sample1.txt", "r") as firstfile:
+    with open("sample2.txt", "a") as secondfile:
+        for line in firstfile:
+            secondfile.write(line)
 ```
-
 ### OUTPUT:
 
-![5c 1](https://user-images.githubusercontent.com/119477890/214048370-2f35a458-df50-4fdd-9cb2-4ad290381e9f.png)
+![git 1](https://user-images.githubusercontent.com/119477890/215125650-9fa8e4b5-409d-4eae-9c71-7396f295fbd4.png)
 
-![5c 2](https://user-images.githubusercontent.com/119477890/214048393-3a3ee7f0-bcc2-45ea-b2a6-9d568baab05e.png)
+![git 2](https://user-images.githubusercontent.com/119477890/215125662-61a1d06f-89c0-4284-90c9-c57a95b107cf.png)
 
 
 ## RESULT:
