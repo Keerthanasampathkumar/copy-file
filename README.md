@@ -37,7 +37,6 @@ with open("sample1.txt", "r") as firstfile:
 
 ![git 1](https://user-images.githubusercontent.com/119477890/215125650-9fa8e4b5-409d-4eae-9c71-7396f295fbd4.png)
 
-![git 2](https://user-images.githubusercontent.com/119477890/215125662-61a1d06f-89c0-4284-90c9-c57a95b107cf.png)
 
 
 ## RESULT:
